@@ -34,7 +34,7 @@ Sobel filter
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/000625_1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG2.jpg)
 
 
-## IDT
+## 3.IDT
 More details on paper: Levinson, Jesse , and S. Thrun . "Automatic Online Calibration of Cameras and Lasers." Robotics: Science and Systems 2013 2013.
 
 Origin image:
