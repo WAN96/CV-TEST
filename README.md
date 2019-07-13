@@ -24,7 +24,11 @@ Only for learning
 detail on https://www.learnopencv.com/histogram-of-oriented-gradients/
 
 histogram of one window
+
+
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/Figure_1.jpeg)
 
 sobel filter
+
+
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG2.jpg)
