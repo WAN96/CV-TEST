@@ -23,24 +23,24 @@ Only for learning, all the images from http://www.cvlibs.net/datasets/kitti/eval
 ### HOG
 detail on https://www.learnopencv.com/histogram-of-oriented-gradients/
 
-histogram of one window
+Histogram of one window
 
 
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/Figure_1.jpeg)
 
-sobel filter
+Sobel filter
 
 
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/000625_1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG2.jpg)
 
 
 ## IDT
-More detail on paper: Levinson, Jesse , and S. Thrun . "Automatic Online Calibration of Cameras and Lasers." Robotics: Science and Systems 2013 2013.
+More details on paper: Levinson, Jesse , and S. Thrun . "Automatic Online Calibration of Cameras and Lasers." Robotics: Science and Systems 2013 2013.
 
-origin image:
+Origin image:
 
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/IDT/000217.jpg)
 
-after:
+After:
 
 ![Image text](https://github.com/WAN96/CV-TEST/blob/master/IDT/IDT.jpg)
