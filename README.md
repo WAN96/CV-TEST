@@ -31,4 +31,4 @@ histogram of one window
 sobel filter
 
 
-![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG2.jpg)
+![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/000625_1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG1.jpg) ![Image text](https://github.com/WAN96/CV-TEST/blob/master/Feature%20detector%26descripto/HOG/HOG2.jpg)
